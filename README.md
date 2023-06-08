@@ -20,17 +20,17 @@ To use this script, follow these steps:
 2. Download the Chrome WebDriver executable appropriate for your operating system
 3. Place the downloaded chromedriver.exe file in the same directory as the app.py script.
 4. Install the required dependencies by running the following command:
-   '''bash
+   '
    pip install -r requirements.txt 
-   '''
+   '
 5. Place the usernames of the Twitter profiles you want to crawl in the usernames.txt file. Each username should be on a separate line.
 
 Usage
 
 To run the Twitter data crawler, execute the following command:
-   '''bash 
+   ' 
    python app.py 
-   '''
+   '
 Certainly! Here's an example of how the README.md file for your GitHub repository could be structured:
 
 
