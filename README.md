@@ -14,9 +14,9 @@ The repository contains the following files:
 
 To use this script, follow these steps:
 1. Clone the repository to your local machine using the command:
-   '''bash
+   '
    git clone https://github.com/slord2k2/twitter-scrapper 
-   '''
+   '
 2. Download the Chrome WebDriver executable appropriate for your operating system
 3. Place the downloaded chromedriver.exe file in the same directory as the app.py script.
 4. Install the required dependencies by running the following command:
