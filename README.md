@@ -31,7 +31,6 @@ To run the Twitter data crawler, execute the following command:
    ' 
    python app.py 
    '
-Certainly! Here's an example of how the README.md file for your GitHub repository could be structured:
 
 
 Notes
